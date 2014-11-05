@@ -1,2 +1,3 @@
 just a test for git remove
 a new  branch
+create a new branch is quick and simple  
